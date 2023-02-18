@@ -92,7 +92,7 @@ function Pricechart1(){
   <h4><DoneIcon></DoneIcon>{chart.phone_spp}</h4>
   <h4><DoneIcon></DoneIcon>{chart.subdomain}</h4>
   <h4><ClearIcon></ClearIcon>{chart.monthly_reports}</h4>
-  <div className='submit'><Button variant="contained">button</Button>
+  <div className='submit'><Button variant="contained">Button</Button>
 </div>
   </div>
 </div>
