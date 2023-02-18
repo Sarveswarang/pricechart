@@ -1,0 +1,36 @@
+.list{
+  height: auto;
+  width: 250px;
+  
+  /* background-color: aqua; */
+ justify-content: center;
+}
+.main{
+  width: 300px;
+  border: 10px;
+  margin:10px,10px,10px,10px;
+  /* gap: 10px; */
+ justify-content: center;
+ background-color: rgb(241, 244, 243);
+ /* display: flex; */
+ /* flex-flow: column; */
+}
+body{
+  /* width: 300px;
+  height: auto;
+  display: flex;
+  flex-flow: row; */
+  
+  justify-content: center;
+ 
+ 
+}
+.submit{
+  justify-content: center;
+  display: flex;
+}
+.cost{
+  margin: 30px;
+  /* display: grid; */
+  justify-content: left;
+}
